@@ -41,13 +41,15 @@ Observed increase in success rate between $35000 to $40000 goal, which is unclea
 * Changing Unix timestamps to human readable format. 
 
 ### Results
-1. Based on the analysis, we suggest that Louise start her campaign between April to May and try to avoid between November to January. 
+1. Based on the analysis, we suggest:  
+   - Louise start her campaign between April to May.  
+   - Try to avoid starting a campaign between November to January. 
  
-2. Louise estimates a budget of over $10,000, which leads mostly to failure. We suggest to reduce the goal amount to increase the success rate. 
+2. Louise estimates a budget of over $10,000, which may lead mostly to failure. We suggest to reduce the goal amount to increase the success rate. 
 
 ### Limitations
-All play themes are not similar, successful ones are more subjective and the right time in the right place. Need to do some analysis using the blurb.
+All play themes are not similar, successful ones are more subjective and the right time in the right place. Need to do some   analysis using the blurb.
 
 ### Other possible areas or graphs: 
 * Further analyze the success ratio based on the duration of the campaign. 
-* Explore the rate of success based on country vs category. 
+* Explore the funding percentage based on the launch date (i.e Percentage funded vs launch date table). 
